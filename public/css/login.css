@@ -1,0 +1,100 @@
+.login-form {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 260px;
+  height: 60%;
+  margin: auto;
+}
+
+.login-form h1 {
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 22px;
+  padding: 20px 0 20px 0;
+}
+
+.login-form label {
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 13px;
+  padding: 10px 0 10px 0;
+}
+
+.sign-form {
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 15px;
+  padding: 20px 0 20px 0;
+}
+
+.login-form input[type="password"],
+.login-form input[type="text"] {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #dddddd;
+  margin-bottom: 15px;
+  box-sizing:border-box;
+}
+
+.login-form input[type="submit"] {
+  width: 100%;
+  padding: 15px;
+  background-color: rgba(1, 15, 34, 0.973);
+  border: 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.register-form {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 260px;
+  height: 70%;
+  margin: auto;
+}
+
+.register-form h1 {
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 18px;
+  padding: 20px 0 20px 0;
+}
+
+.register-form label {
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 13px;
+  padding: 10px 0 10px 0;
+}
+
+.register-form input[type="password"],
+.register-form input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #dddddd;
+  box-sizing:border-box;
+}
+
+.register-form input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: rgba(1, 15, 34, 0.973);
+  border: 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+span.psw {
+  float: right;
+  padding-top: 3px;
+}
