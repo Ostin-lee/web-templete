@@ -1,3 +1,3 @@
 # web-templete
 
-Nodejs (Express) + EJS + Mysql
+Nodejs (Express) + EJS + Mysql Project
